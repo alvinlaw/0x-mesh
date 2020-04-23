@@ -33,6 +33,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/ipfs/go-datastore v0.3.1
 	github.com/ipfs/go-ds-leveldb v0.4.0
+	github.com/jmoiron/sqlx v1.2.0
 	github.com/jpillora/backoff v0.0.0-20170918002102-8eab2debe79d
 	github.com/karalabe/usb v0.0.0-20191104083709-911d15fe12a9 // indirect
 	github.com/karlseguin/ccache v2.0.3+incompatible
@@ -57,6 +58,7 @@ require (
 	github.com/libp2p/go-ws-transport v0.2.0
 	github.com/mattn/go-colorable v0.1.2 // indirect
 	github.com/mattn/go-runewidth v0.0.4 // indirect
+	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/multiformats/go-multiaddr v0.2.0
 	github.com/multiformats/go-multiaddr-dns v0.2.0
 	github.com/ocdogan/rbt v0.0.0-20160425054511-de6e2b48be33
