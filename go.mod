@@ -31,6 +31,7 @@ require (
 	github.com/golang/protobuf v1.3.2 // indirect
 	github.com/google/uuid v1.1.1
 	github.com/hashicorp/golang-lru v0.5.4
+	github.com/ido50/sqlz v0.0.0-20200308174337-487b8faf612c
 	github.com/ipfs/go-datastore v0.3.1
 	github.com/ipfs/go-ds-leveldb v0.4.0
 	github.com/jmoiron/sqlx v1.2.0
@@ -84,6 +85,7 @@ require (
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
 	golang.org/x/net v0.0.0-20190724013045-ca1201d0de80 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
+	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0 // indirect
 	gopkg.in/karlseguin/expect.v1 v1.0.1 // indirect
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
 	gopkg.in/olebedev/go-duktape.v3 v3.0.0-20190709231704-1e4459ed25ff // indirect
